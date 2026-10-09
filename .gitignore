@@ -1,0 +1,10 @@
+# NEVER upload your secret key
+.env
+
+# Installed toolboxes - anyone can recreate these with setup.bat
+.venv/
+__pycache__/
+*.pyc
+
+# The vector database - rebuilt from the documents with one click
+brand_db/

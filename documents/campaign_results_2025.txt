@@ -1,0 +1,36 @@
+NOOR FASHION - 2025 CAMPAIGN RESULTS SUMMARY (fictional demo data)
+Prepared by the marketing team, January 2026
+
+OVERVIEW
+In 2025 we ran four major email and social campaigns. The Ramadan campaign was our best performer by every measure. Email remained our highest-return channel, with an average return on ad spend (ROAS) of 6.2 compared with 3.1 for Instagram ads and 2.4 for TikTok ads.
+
+1. RAMADAN COLLECTION (March 2025)
+Email open rate: 48 percent. Click-through rate: 6.1 percent.
+Revenue: 412,000 AED. Best-selling product: the Layla kaftan.
+What worked: sending the first email at 9 pm, after iftar, doubled the clicks compared with a morning send. Free gift wrapping drove a 22 percent rise in orders marked as gifts.
+
+2. EID AL-FITR (April 2025)
+Email open rate: 41 percent. Click-through rate: 4.8 percent.
+Revenue: 286,000 AED.
+What worked: a countdown timer in the email header. What did not work: a 30 percent discount attracted many one-time buyers who never ordered again.
+
+3. SUMMER EDIT (July 2025)
+Email open rate: 29 percent. Click-through rate: 2.2 percent.
+Revenue: 74,000 AED.
+Lesson: many customers travel in July, so engagement drops. Plan smaller campaigns in summer.
+
+4. WHITE FRIDAY (November 2025)
+Email open rate: 37 percent. Click-through rate: 5.3 percent.
+Revenue: 351,000 AED.
+What worked: giving VIP customers 24-hour early access. VIPs produced 46 percent of White Friday revenue while being only 12 percent of the customer list.
+
+SEGMENT RESULTS ACROSS ALL 2025 EMAILS
+VIP customers: open rate 58 percent.
+Regular customers: open rate 36 percent.
+New customers: open rate 31 percent.
+
+RECOMMENDATIONS FOR 2026
+- Keep sending Ramadan emails after iftar.
+- Use early access and exclusivity for VIPs instead of deeper discounts.
+- Avoid discounts above 25 percent, which attract one-time buyers.
+- Run a welcome series of three emails for New customers in their first two weeks.
